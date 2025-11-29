@@ -1,0 +1,4 @@
+Hello this is a new file
+I am learning java
+java is used in machine learning widely
+numpy is a library in java
